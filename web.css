@@ -1,0 +1,23 @@
+.portfolio_section_div {
+  height: 60vh;
+  background-color: lightgrey;
+}
+.portfolio_section_parent_div {
+  width: 95%;
+  display: flex;
+  align-content: center;
+  gap: 130px;
+  margin-right: auto;
+  margin-left: auto;
+}
+.firstchilddiv {
+  width: 50%;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  color: gray;
+  align-content: center;
+  align-items: center;
+}
+.secondchilddiv {
+  width: 50%;
+}
